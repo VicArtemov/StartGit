@@ -1,4 +1,4 @@
-package com.example.startgit;
+package com.example.cliker;
 
 import org.junit.Test;
 

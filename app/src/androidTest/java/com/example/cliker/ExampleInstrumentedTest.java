@@ -1,4 +1,4 @@
-package com.example.startgit;
+package com.example.cliker;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.startgit", appContext.getPackageName());
+        assertEquals("com.example.cliker", appContext.getPackageName());
     }
 }
