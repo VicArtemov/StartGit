@@ -1,5 +1,3 @@
 <resources>
-    <string name="app_name">Cliker</string>
-    <string name="counter_text">Кнопка нажата 0 раз(a)</string>
-    <string name="btn_press">Нажать</string>
+    <string name="app_name">StartGit</string>
 </resources>
